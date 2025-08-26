@@ -1,4 +1,4 @@
-# Level 0 IT Support Chatbot
+# LLM-Powered Chatbot for Level 0 IT Support
 
 A conversational AI chatbot designed to automate Level 0 IT support, addressing common queries such as password resets, WiFi troubleshooting, and software issues. Developed as part of my Master's project (CS 590) at Bishop’s University, this project integrates a fine-tuned [mistralai/Mistral-7B-Instruct-v0.2](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2) model with a React-based frontend and Flask backend for real-time, scalable IT assistance.
 
